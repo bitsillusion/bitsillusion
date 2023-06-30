@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bitsillussion
+- 👋 Hi, I’m @bitsillusion
 - 👀 I’m interested in computer networks and systems security
 - 🌱 I’m currently learning CEH
 - 💞️ I’m looking to collaborate on cybersecurity projects
